@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "productId": 1,
+            "productName": "Nike Running",
+            "productPrice": 25,
+            "productImg": "https://raw.githubusercontent.com/elLuiz/Products/master/images/nike01.png"
+        },
+        {
+            "productId": 2,
+            "productName": "Nike Air Max",
+            "productPrice": 49.99,
+            "productImg": "https://raw.githubusercontent.com/elLuiz/Products/master/images/nike02.png"           
+        }
+    ]
+}
